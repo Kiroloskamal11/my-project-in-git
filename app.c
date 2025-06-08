@@ -7,11 +7,12 @@ void main (){
     scanf ("%d",&num);
     printf ("please enter your numer two :");
     scanf ("%d",&num2);
-    printf ("this is supmition in the two number = %d", sum =num +num2);
+    printf ("this is supmition in the two number = %d \n", sum =num +num2);
+    printf ("thank you fot compliting the process.");
 
 
 
 
 
 
-}
+}  
