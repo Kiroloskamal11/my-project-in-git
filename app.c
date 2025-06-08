@@ -9,6 +9,7 @@ void main (){
     scanf ("%d",&num2);
     printf ("this is supmition in the two number = %d \n", sum =num +num2);
     printf ("thank you fot compliting the process.");
+    printf("i ready study git hup");
 
 
 
